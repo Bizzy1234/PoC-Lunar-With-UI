@@ -1,0 +1,2 @@
+In order for this to work properly you'll need Nvidia Cuda-Toolkit and some version of python
+(I'm using python 3.8 with no problems)
